@@ -1,0 +1,52 @@
+PODS:
+  - Alamofire (4.8.1)
+  - AlamofireImage (3.5.0):
+    - Alamofire (~> 4.8)
+  - Kingfisher (4.10.1)
+  - ObjectMapper (3.4.2)
+  - RxAtomic (4.4.0)
+  - RxCocoa (4.4.0):
+    - RxSwift (~> 4.0)
+  - RxSwift (4.4.0):
+    - RxAtomic (~> 4.4)
+  - RxSwiftExt (3.4.0):
+    - RxSwiftExt/Core (= 3.4.0)
+    - RxSwiftExt/RxCocoa (= 3.4.0)
+  - RxSwiftExt/Core (3.4.0):
+    - RxSwift (~> 4.0)
+  - RxSwiftExt/RxCocoa (3.4.0):
+    - RxCocoa (~> 4.0)
+    - RxSwiftExt/Core
+
+DEPENDENCIES:
+  - Alamofire
+  - AlamofireImage
+  - Kingfisher (~> 4.10.1)
+  - ObjectMapper
+  - RxSwift
+  - RxSwiftExt
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - AlamofireImage
+    - Kingfisher
+    - ObjectMapper
+    - RxAtomic
+    - RxCocoa
+    - RxSwift
+    - RxSwiftExt
+
+SPEC CHECKSUMS:
+  Alamofire: 16ce2c353fb72865124ddae8a57c5942388f4f11
+  AlamofireImage: 1aea346f4dda2f6c67622fa5a89fcbb80d79cc16
+  Kingfisher: c148cd7b47ebde9989f6bc7c27dcaa79d81279a0
+  ObjectMapper: 0d4402610f4e468903ae64629eec4784531e5c51
+  RxAtomic: eacf60db868c96bfd63320e28619fe29c179656f
+  RxCocoa: df63ebf7b9a70d6b4eeea407ed5dd4efc8979749
+  RxSwift: 5976ecd04fc2fefd648827c23de5e11157faa973
+  RxSwiftExt: 01f8ecbeeb355698e9c75365ebe908b00dacf45d
+
+PODFILE CHECKSUM: 2b4ab827fefa04949aa5cb3f3d89050b719decc8
+
+COCOAPODS: 1.5.3
